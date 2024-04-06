@@ -3,8 +3,8 @@
 ## Final Project: Article Summarizer
 
 ### Student Name: Naiema Elsaadi
-
-The project aims to assist users in quickly understanding the sentiment of articles and identifying key information without having to read the entire text. It can be useful for researchers, journalists, and anyone interested in understanding the emotional content of written text.
+<b>
+The project aims to assist users in quickly understanding the sentiment of articles and identifying key information without having to read the entire text. It can be useful for researchers, journalists, and anyone interested in understanding the emotional content of written text.</b>
 
 ## Introduction
 <b>
@@ -33,7 +33,7 @@ The project is a Python-based text analysis tool that performs sentiment analysi
 4. Visualization: Implement visualization techniques to present the analysis results in a clear and intuitive manner. This includes generating histograms, word clouds, and other visualizations to help users understand the data more effectively.
 
 5. Article Summarization: Implement algorithms to automatically generate concise summaries of articles retrieved from online sources. This involves extracting key information and significant insights from the text to provide users with a condensed version of the content.
-<br><b>
+<br></br></br><b>
 By achieving these objectives, the project aims to provide a valuable tool for data analysts, researchers, journalists, and content creators to analyze and extract insights from textual data efficiently and effectively. Additionally, the project serves as a unique addition to the developer's online portfolio, showcasing their skills and capabilities in web mining and NLP.</b>
 
 
@@ -57,35 +57,24 @@ Before running the project, ensure you have the following prerequisites:
 <br>`python -m pip install requests`
 <br>`python -m pip install spacy`
 <br>`python -m pip install spacytextblob`
-- Install them into our active virtual environment.
-- Use an import statement in our Python. 
-- Spelling and capitalization matters 
-- The typical approach is to:
-1. Create a virtual environment
-2. Activate the virtual environment
-3. Install into the active virtual environment (e.g. `python -m pip install beautifulsoup4`)
-4. In your Python, import it (e.g. `from bs4 import BeautifulSoup`)
-5. spaCy Import Error:
-<br> Go to the `pyvenv.cfg` file in the Virtual environment folder
-<br> Set the `include-system-site-packages` to `true` and save the change
-<br> Reactivate the virtual environment.
+
 
 
 ## Before we start 
 
-` Create and activate a Python virtual environment. `
-<br>` Address any errors you get running this code cell by installing the necessary packages into your active Python environment.`
-<br>` Before starting the project, try all these imports FIRST`
-<br>from collections import Counter
+- Create and activate a Python virtual environment. 
+- Address any errors you get running this code cell by installing the necessary packages into your active Python environment.
+- Before starting the project, try all these imports FIRST
+<br>`from collections import Counter
 <br>import pickle
 <br>import requests
 <br>import spacy
 <br>from bs4 import BeautifulSoup
 <br>import matplotlib.pyplot as plt
 <br>!pip list
-<br>print('All prereqs installed.')
+<br>print('All prereqs installed.')`
 
-<br>`Modules`
+### Modules
 <b>The following modules are required for the installation of this project:</b>
 * import requests
 * from bs4 import BeautifulSoup
@@ -100,8 +89,8 @@ Before running the project, ensure you have the following prerequisites:
 
 ## Installation
 
-Instructions for installing any dependencies or software needed to run the project. Include commands for installing packages or setting up environments.
-
+Instructions for installing any dependencies or software needed to run the project.
+Include commands for installing packages or setting up environments.
 To use the notebooks in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
@@ -178,26 +167,3 @@ https://github.com/denisecase/620-mod6-web-scraping/blob/main/web_scraping.ipynb
 
 
 
-Complete the tasks in the Python Notebook in this repository.
-Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
-
-## Rubric
-
-* (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
-* (Question 2) Polarity score printed with an appropriate label: 1 pt
-* (Question 2) Number of sentences printed: 1 pt
-* (Question 3) Correct (or equivalent in the case of multiple tokens with same frequency) tokens printed: 1 pt
-* (Question 4) Correct (or equivalent in the case of multiple lemmas with same frequency) lemmas printed: 1 pt
-* (Question 5) Histogram shown with appropriate labelling: 1 pt
-* (Question 6) Histogram shown with appropriate labelling: 1 pt
-* (Question 7) Cutoff score seems appropriate given histograms: 2 pts (1/score)
-* (Question 8) Summary contains a shortened version of the article (less than half the number of sentences): 1 pt
-* (Question 8) Summary sentences are in the same order as they appeared in the original article: 1 pt
-* (Question 9) Polarity score printed with an appropriate label: 1 pt
-* (Question 9) Number of sentences printed: 1 pt
-* (Question 10) Summary contains a shortened version of the article (less than half the number of sentences): 1 pt
-* (Question 10) Summary sentences are in the same order as they appeared in the original article: 1 pt
-* (Question 11) Polarity score printed with an appropriate label: 1 pt
-* (Question 11) Number of sentences printed: 1 pt
-* (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
-* (Question 13) Thoughtful answer based on summaries: 1 pt
