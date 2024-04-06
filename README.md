@@ -33,7 +33,7 @@ The project is a Python-based text analysis tool that performs sentiment analysi
 4. Visualization: Implement visualization techniques to present the analysis results in a clear and intuitive manner. This includes generating histograms, word clouds, and other visualizations to help users understand the data more effectively.
 
 5. Article Summarization: Implement algorithms to automatically generate concise summaries of articles retrieved from online sources. This involves extracting key information and significant insights from the text to provide users with a condensed version of the content.
-<br></br></br><b>
+<br></br><b>
 By achieving these objectives, the project aims to provide a valuable tool for data analysts, researchers, journalists, and content creators to analyze and extract insights from textual data efficiently and effectively. Additionally, the project serves as a unique addition to the developer's online portfolio, showcasing their skills and capabilities in web mining and NLP.</b>
 
 
@@ -65,14 +65,14 @@ Before running the project, ensure you have the following prerequisites:
 - Create and activate a Python virtual environment. 
 - Address any errors you get running this code cell by installing the necessary packages into your active Python environment.
 - Before starting the project, try all these imports FIRST
-<br>`from collections import Counter
-<br>import pickle
-<br>import requests
-<br>import spacy
-<br>from bs4 import BeautifulSoup
-<br>import matplotlib.pyplot as plt
-<br>!pip list
-<br>print('All prereqs installed.')`
+<br>`from collections import Counter`
+<br>`import pickle`
+<br>`import requests`
+<br>`import spacy`
+<br>`from bs4 import BeautifulSoup`
+<br>`import matplotlib.pyplot as plt`
+<br>`!pip list`
+<br>`print('All prereqs installed.')`
 
 ### Modules
 <b>The following modules are required for the installation of this project:</b>
