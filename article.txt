@@ -1,0 +1,704 @@
+
+
+
+
+
+Microsoft and Quantinuum’s quantum computer may be most reliable yet | New Scientist
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+Close
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to content
+
+
+Sign in
+
+
+
+
+Search the website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Events
+
+
+Tours
+
+
+Shop
+
+
+Courses
+
+
+Jobs
+
+
+
+
+Subscribe now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore by section
+
+
+
+
+News
+
+
+Features
+
+
+Newsletters
+
+
+Podcasts
+
+
+Video
+
+
+Comment
+
+
+Culture
+
+
+Crosswords
+
+|
+
+This week's magazine
+
+
+
+
+
+
+
+Explore by subject
+
+
+
+
+Health
+
+
+Space
+
+
+Physics
+
+
+Technology
+
+
+Environment
+
+
+Mind
+
+
+Humans
+
+
+Life
+
+
+Mathematics
+
+
+Chemistry
+
+
+Earth
+
+
+Society
+
+
+
+
+
+Explore our products and services
+
+
+
+
+Events
+
+
+Tours
+
+
+Shop
+
+
+Courses
+
+
+Jobs
+
+
+
+
+
+
+Subscribe now 
+
+
+
+
+
+
+Subscribe now
+
+
+
+
+
+
+
+
+Technology
+
+Microsoft and Quantinuum’s quantum computer may be most reliable yet
+A quantum computer built by Quantinuum uses “logical quantum bits” designed by Microsoft to run simple computational routines with an unprecedented level of reliability
+By Karmela Padavic-Callaghan
+
+
+
+                                    3 April 2024
+                                                                    
+
+
+
+
+Facebook / Meta
+
+
+
+
+
+
+
+Twitter / X icon
+
+
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+Linkedin
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+The Quantinuum H2 chipQuantinuum
+Microsoft and the quantum computing firm Quantinuum claim to have made a quantum computer that has an unprecedented level of reliability. Its ability to correct its own errors could be a step towards more practical quantum computers in the near future.
+“What we did here gives me goosebumps. We have shown that error correction is repeatable, it is working and it is reliable,” says Krysta Svore at Microsoft.
+Experts have long anticipated the arrival of practical quantum computers, which could complete calculations that are too complex for conventional computers. Though quantum computers are steadily becoming larger and more complex, this prediction hasn’t yet been fully realised. One big reason for this is that all contemporary quantum computers make errors, and researchers have found it technically difficult to implement algorithms to catch and correct them during computation.Advertisement
+ 
+
+
+Read more
+            
+
+
+
+                                    Mystery of the quantum lentils: Are legumes exchanging secret signals?
+                            
+
+
+
+
+The new experiment may represent a significant step towards overcoming this error problem – the researchers say they ran over 14,000 separate computational routines on Quantinuum’s H2 quantum processors without a single error.
+Classical computers also make errors, but error correction can be coded into programs by making back-up copies of the information being processed. This approach isn’t possible in quantum computing because quantum information cannot be copied. So, instead, researchers spread it across groups of connected quantum bits, or qubits, to create what are known as logical qubits. The Microsoft and Quantinuum team used 30 qubits to make four of these logical qubits. 
+Sign up to our The Weekly newsletter
+
+
+
+
+
+
+Receive a weekly dose of discovery in your inbox.
+
+
+Sign up to newsletter
+
+
+Svore says that it was the generation of these logical qubits, using a process developed by Microsoft, that enabled repeated runs of error-free, or fault-tolerant, experiments. Individual qubits are typically easily disturbed, but at the level of the logical qubits, the researchers could repeatedly detect and correct the errors.
+They say this approach was so successful that the four logical qubits produced as few as 0.125 per cent of the errors that were seen when the 30 qubits were left ungrouped. This means the ungrouped qubits would have produced as many as 800 errors for every one error produced by the logical qubits.
+“A logical error rate 800 times lower than the error rate of the physical qubits is a very significant advance in the field that takes us another step closer to fault-tolerant quantum computing,” says Mark Saffman at the University of Wisconsin who was not involved with the experiment.
+Jennifer Strabley at Quantinuum says the team’s hardware was well suited for the new experiments because it offers a high degree of control over qubits and because its quantum computer already had some of the lowest error rates achieved to date.
+ 
+                                    Quantum batteries: Strange technology that could provide instant power
+                            
+                                    By leveraging a bizarre property of quantum mechanics called entanglement, quantum batteries could theoretically recharge in a flash. Now, progress is being made towards making them a reality.
+                             
+In 2023, a team of researchers at Harvard University and their colleagues, including some at the quantum computing start-up QuEra, broke the record for the largest number of logical qubits – 48 at once. This is far more than the four logical qubits in the new device. But Strabley says the new device requires fewer physical qubits per logical qubit, and the logical qubits made fewer errors than those built by the Harvard team. “We used a lot fewer physical qubits and got better results,” she says.
+However, some experts consulted by New Scientist were not ready to qualify the new work as a breakthrough in quantum error correction just yet without more detail about the experiment.
+It is generally accepted that only quantum computers with 100 or more logical qubits will really be able to tackle scientifically and societally relevant problems in areas including chemistry or materials science. The next challenge is making everything larger. Both Strabley and Svore say they are confident that the longstanding collaboration between Microsoft and Quantinuum will get there soon.
+Topics:quantum computing 
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up to our weekly newsletter
+
+Receive a weekly dose of discovery in your inbox! 
+            We'll also keep you up to date with New Scientist 
+            events and special offers.
+Sign up
+
+
+ 
+
+
+
+
+
+
+
+
+
+                            More from New Scientist
+
+
+                            Explore the latest news, articles and features
+                            
+
+
+
+        Technology
+    
+                    Quantum memory device could stop unhackable networks from failing
+                NewsSubscriber-only
+        Technology
+    
+                    D-Wave says its quantum computers can solve otherwise impossible tasks
+                NewsSubscriber-only
+        Technology
+    
+                    Google launches $5m prize to find actual uses for quantum computers
+                NewsFree
+        Technology
+    
+                    Quantum computer uses a time crystal as a control dial
+                NewsSubscriber-only 
+
+
+
+
+
+
+
+
+
+
+Popular articles
+Trending New Scientist articles
+
+  
+1
+
+We finally know why Stephen Hawking's black hole equation works
+
+
+
+2
+
+The new evidence that explains what anxiety really is
+
+
+
+3
+
+5 solar eclipse activities to do with children
+
+
+
+4
+
+Why it is time for a longevity revolution
+
+
+
+5
+
+Five scientific ways to help reduce feelings of anxiety
+
+
+
+6
+
+Eclipse 2024: When is it and where can I see it?
+
+
+
+7
+
+The mathematician who worked out how to time travel
+
+
+
+8
+
+Life’s vital chemistry may have begun in hot, cracked rock
+
+
+
+9
+
+There are hints that dark energy may be getting weaker
+
+
+
+10
+
+What is Disease X and do we need to worry about it?
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+Find us on social media
+
+
+
+
+Instagram
+
+
+
+
+
+Facebook
+
+
+
+
+
+X / Twitter
+
+
+
+
+
+Tiktok
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+Subscriptions
+
+
+Subscriber benefits
+
+
+Gift
+
+
+Student & graduate
+
+
+Educational
+
+
+Corporate
+
+
+
+
+
+
+Support
+
+
+Help
+
+
+About us
+
+
+Advertise
+
+
+Write for us
+
+
+
+
+
+
+Tools
+
+
+Events
+
+
+Science Jobs
+
+
+CoLab
+
+
+Syndication
+
+
+RSS feeds
+
+
+
+
+
+
+Legal and privacy
+
+
+Contact us
+
+
+Privacy policy
+
+
+Cookie policy
+
+
+Terms & conditions
+
+
+
+Cookie Settings
+
+
+
+
+
+
+
+
+
+
+
+ © Copyright New Scientist Ltd. 
+
+Back to the top
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
